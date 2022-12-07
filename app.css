@@ -92,7 +92,7 @@ header.li.a{
 
 body{
     min-height: 100vh;
-    background-color: var(--negro);
+    background-color: black;
     color: var(--blanco);
     font-smooth: always;
     -webkit-font-smoothing: antialiased;
